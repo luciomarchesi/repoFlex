@@ -1,0 +1,27 @@
+.fondo {
+    background-color: rgb(193, 233, 233);
+}
+
+.texto {
+    font-family: serif;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.caja {
+    margin: 10px;
+    background-color: aquamarine;
+    padding: 20px;
+    height: 200px;
+    width: 250px;
+    object-fit: cover;
+}
+
+.flex-container {
+
+    padding: 20px;
+    background-color: rgb(20, 134, 134);
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-between;
+}
