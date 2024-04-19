@@ -3,3 +3,4 @@
 ## ALUMNOS
 
 ### Jorge Grandia
+### Lucio Marchesi
